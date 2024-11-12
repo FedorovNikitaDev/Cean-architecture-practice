@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\bin\Debug\net8.0\IBook.Application.deps.json
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\bin\Debug\net8.0\IBook.Application.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\bin\Debug\net8.0\IBook.Application.pdb
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\bin\Debug\net8.0\IBook.Domain.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\bin\Debug\net8.0\IBook.Domain.pdb
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.AssemblyInfo.cs
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Ap.AC69F4E8.Up2Date
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\refint\IBook.Application.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\IBook.Application.pdb
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Application\obj\Debug\net8.0\ref\IBook.Application.dll

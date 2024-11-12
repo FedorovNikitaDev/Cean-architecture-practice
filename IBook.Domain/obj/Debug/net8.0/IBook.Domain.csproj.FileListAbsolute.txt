@@ -1,0 +1,11 @@
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\bin\Debug\net8.0\IBook.Domain.deps.json
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\bin\Debug\net8.0\IBook.Domain.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\bin\Debug\net8.0\IBook.Domain.pdb
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.AssemblyInfo.cs
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\refint\IBook.Domain.dll
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\IBook.Domain.pdb
+C:\Users\nikit\Desktop\PetProjects\IBook\IBook.Domain\obj\Debug\net8.0\ref\IBook.Domain.dll

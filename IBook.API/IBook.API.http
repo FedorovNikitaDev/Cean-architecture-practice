@@ -1,0 +1,6 @@
+@IBook.API_HostAddress = http://localhost:5034
+
+GET {{IBook.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
