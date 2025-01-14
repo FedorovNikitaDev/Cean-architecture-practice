@@ -3,7 +3,7 @@ using Microsoft.Extensions.Logging;
 
 namespace IBook.Infrastructure.Cache.Repositories;
 
-public class BaseCacheRepository
+public abstract class BaseCacheRepository
 {
     protected readonly ICacheService CacheService;
 

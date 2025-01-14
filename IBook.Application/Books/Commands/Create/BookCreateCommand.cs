@@ -27,7 +27,7 @@ public class BookCreateCommandHandler : BaseHandler<BookCreateCommand, Response<
     {
         _bookRepository = bookRepository;
     }
-
+    
     public override async Task<Response<long>> Handle(BookCreateCommand request, CancellationToken cancellationToken)
     {
         Logger.LogInformationDateTime($"Start book create.");

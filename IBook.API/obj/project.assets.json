@@ -3011,6 +3011,7 @@
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nikit\\Desktop\\PetProjects\\IBook\\IBook.API\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

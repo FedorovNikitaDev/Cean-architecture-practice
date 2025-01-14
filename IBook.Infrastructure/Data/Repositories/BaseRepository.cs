@@ -2,7 +2,7 @@
 
 namespace IBook.Infrastructure.Data.Repositories;
 
-public class BaseRepository
+public abstract class BaseRepository
 {
     protected readonly ApplicationDbContext Context;
     protected readonly ILogger<BaseRepository> Logger;
